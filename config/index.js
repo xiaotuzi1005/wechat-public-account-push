@@ -95,16 +95,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
+      name: "小罗卜",
+      id: "oyaXO6mf0h96H3t0-_EVmmxSK5I8",
       useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      province: "青海",
+      city: "西宁",
+      horoscopeDate: '10-05',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: ["type": "*生日", "name": "小萝卜", "year": "2001", "date": "10-05"],
+      customizedDateList: ["keyword":"love_day",date:"2022-03-10"]
     },
     {
       name: "老婆2",
