@@ -4,8 +4,8 @@
 name: weixin-push-on-time-params-log
 
 on:
-  workflow_dispatch:
-    
+  workflow_dispatc:
+  - cron:10 2 * * *'
 jobs:
   build:
 
